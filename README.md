@@ -2,7 +2,7 @@
 
 Classification Data Malware Dengan Menggunakan Metode KNN (K-Nearest Neighbors)
 
-Untuk Tugas Proyek matakkuliah CERTAN, kelompok 05 membuat sebuah model Machine Learning untuk model klasifikasi menggunakan K-Nearest Neighbor.
+Untuk Tugas Proyek mata kuliah CERTAN, kelompok 05 membuat sebuah model Machine Learning untuk model klasifikasi menggunakan K-Nearest Neighbor.
 
 ## Anggota Kelompok
 1. 12S21021 - Naomi Elena Lumbanraja 
